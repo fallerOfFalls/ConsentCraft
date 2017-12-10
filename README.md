@@ -1,3 +1,0 @@
-## ConsentCraft
-
-work in progress
